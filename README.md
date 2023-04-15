@@ -26,3 +26,6 @@ FORMAÇÃO
  Ensino Médio Completo (Fundação Bradesco)
  Cursando a faculdade de Análise e Desenvolvimento de Sistemas (Unimar)
 
+
+
+
